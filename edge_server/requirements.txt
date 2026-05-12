@@ -1,0 +1,14 @@
+anyio==4.12.1
+certifi==2026.2.25
+charset-normalizer==3.4.6
+click==8.1.8
+fastapi==0.115.12
+h11==0.16.0
+idna==3.11
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+pydantic==2.10.6
+requests==2.32.5
+typing-extensions==4.15.0
+urllib3==2.6.3
+uvicorn==0.34.0
