@@ -1,0 +1,78 @@
+{
+  "violation_id": "1554eb8c-12f",
+  "frame_id": 16,
+  "timestamp": "2026-05-12T17:51:03",
+  "violation_type": "HELMET_VIOLATION",
+  "device_id": "192.168.0.4",
+  "vehicle_class": "motorcycle",
+  "vehicle_bbox": [
+    25,
+    88,
+    91,
+    186
+  ],
+  "plate_text": "UNREADABLE",
+  "plate_conf": 0.0,
+  "plate_readable": false,
+  "plate_valid_indian": false,
+  "gps_lat": null,
+  "gps_lon": null,
+  "riders": [
+    {
+      "rider_idx": 0,
+      "bbox": [
+        34,
+        10,
+        99,
+        148
+      ],
+      "helmet_worn": false,
+      "p_no_helmet": 0.7358,
+      "violation": true
+    }
+  ],
+  "raw_crop_path": "received_images/1778588461_crop_f00016_HELMET_CHECK_per_motorcycle.jpg",
+  "annotated_path": "yolo_outputs/violation_1554eb8c-12f_HELMET_VIOLATION.jpg",
+  "annotated_file": "violation_1554eb8c-12f_HELMET_VIOLATION.jpg",
+  "processing_ms": 1797.95,
+  "pi_meta": {
+    "frame_id": 16,
+    "violation_type": "HELMET_CHECK",
+    "vehicle_class": "motorcycle",
+    "confidence": 0.339,
+    "bbox_moto": [
+      328,
+      322,
+      395,
+      404
+    ],
+    "bbox_expanded": [
+      318,
+      257,
+      405,
+      416
+    ],
+    "bbox_crop": [
+      305,
+      224,
+      418,
+      420
+    ],
+    "rider_count": 1,
+    "riders": [
+      {
+        "bbox": [
+          338,
+          241,
+          411,
+          365
+        ],
+        "conf": 0.685
+      }
+    ],
+    "timestamp": "2026-05-12T17:51:01",
+    "frame_w": 1280,
+    "frame_h": 800,
+    "crop_type": "per_motorcycle"
+  }
+}
