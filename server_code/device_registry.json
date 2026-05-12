@@ -1,0 +1,109 @@
+{
+  "mac_50e0857b1a1a": {
+    "device_id": "mac_50e0857b1a1a",
+    "device_name": "nibedita-Lenovo-IdeaPad-S145-15IWL",
+    "device_type": "raspberry_pi",
+    "ip_address": "127.0.1.1",
+    "cpu_serial": null,
+    "mac_address": "50:e0:85:7b:1a:1a",
+    "os_info": "Linux 6.17.0-23-generic",
+    "python_version": "3.11.13",
+    "status": "active",
+    "timestamp": "2026-05-11T11:00:51.262895",
+    "capabilities": {
+      "video_processing": true,
+      "model_type": "yolov8n_int8",
+      "ota_enabled": true
+    },
+    "registered_at": "2026-05-10T15:02:56.359576",
+    "last_updated": "2026-05-11T11:00:51.266572",
+    "last_seen": "2026-05-11T11:01:51.275824",
+    "pipeline_running": true
+  },
+  "192.168.0.5": {
+    "device_id": "192.168.0.5",
+    "device_name": "192.168.0.5",
+    "device_type": "raspberry_pi",
+    "ip_address": "192.168.0.5",
+    "status": "active",
+    "registered_at": "2026-05-10T15:04:17.151949",
+    "last_seen": "2026-05-11T11:01:01.245504",
+    "crops_sent": 449,
+    "violations": 63
+  },
+  "rpi_10000000af83ca1b": {
+    "device_id": "rpi_10000000af83ca1b",
+    "device_name": "raspberrypi",
+    "device_type": "raspberry_pi",
+    "ip_address": "127.0.1.1",
+    "cpu_serial": "10000000af83ca1b",
+    "mac_address": "e4:5f:01:e1:28:48",
+    "os_info": "Linux 6.12.75+rpt-rpi-v8",
+    "python_version": "3.11.0",
+    "status": "active",
+    "timestamp": "2026-05-12T17:50:11.219871",
+    "capabilities": {
+      "video_processing": true,
+      "model_type": "yolov8n_int8",
+      "ota_enabled": true
+    },
+    "registered_at": "2026-05-10T21:05:59.477111",
+    "last_updated": "2026-05-12T17:50:11.320782",
+    "last_seen": "2026-05-12T17:55:11.624216",
+    "pipeline_running": true
+  },
+  "192.168.0.3": {
+    "device_id": "192.168.0.3",
+    "device_name": "192.168.0.3",
+    "device_type": "raspberry_pi",
+    "ip_address": "192.168.0.3",
+    "status": "active",
+    "registered_at": "2026-05-10T21:11:46.834549",
+    "last_seen": "2026-05-11T14:56:02.587183",
+    "crops_sent": 12,
+    "violations": 2
+  },
+  "rpi_0000000020159322": {
+    "device_id": "rpi_0000000020159322",
+    "device_name": "raspberrypi",
+    "device_type": "raspberry_pi",
+    "ip_address": "127.0.1.1",
+    "cpu_serial": "0000000020159322",
+    "mac_address": "b8:27:eb:40:c6:77",
+    "os_info": "Linux 6.1.21-v7+",
+    "python_version": "3.9.2",
+    "status": "active",
+    "timestamp": "2026-05-11T14:23:30.175700",
+    "capabilities": {
+      "video_processing": true,
+      "model_type": "yolov8n_int8",
+      "ota_enabled": true
+    },
+    "registered_at": "2026-05-11T13:48:21.248694",
+    "last_updated": "2026-05-11T14:23:30.084727",
+    "last_seen": "2026-05-11T14:35:31.330688",
+    "pipeline_running": true
+  },
+  "192.168.0.2": {
+    "device_id": "192.168.0.2",
+    "device_name": "192.168.0.2",
+    "device_type": "raspberry_pi",
+    "ip_address": "192.168.0.2",
+    "status": "active",
+    "registered_at": "2026-05-11T13:49:35.350240",
+    "last_seen": "2026-05-11T14:24:46.672802",
+    "crops_sent": 12,
+    "violations": 2
+  },
+  "192.168.0.4": {
+    "device_id": "192.168.0.4",
+    "device_name": "192.168.0.4",
+    "device_type": "raspberry_pi",
+    "ip_address": "192.168.0.4",
+    "status": "active",
+    "registered_at": "2026-05-12T17:50:57.378062",
+    "last_seen": "2026-05-12T17:51:01.752436",
+    "crops_sent": 6,
+    "violations": 1
+  }
+}
